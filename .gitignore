@@ -1,0 +1,16 @@
+# 編譯產物
+/bin/
+/bin/*
+*.exe
+*.out
+
+# Go modules
+/go.mod
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
